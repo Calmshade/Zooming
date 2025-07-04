@@ -1,0 +1,8 @@
+[general]
+name=Zooming
+description=A simple plugin to zoom to selected feature
+version=0.1
+qgisMinimumVersion=3.0
+author=Zlatan Biserčić
+email=123
+category=Plugin
